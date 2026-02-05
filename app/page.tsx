@@ -25,7 +25,7 @@ const links = [
   {
     title: "হোয়াটসঅ্যাপ",
     subtitle: "Chat with Us",
-    href: "https://wa.me/+8801798127029",
+    href: "https://wa.me/+8801760686660",
     icon: MessageCircle,
   },
 ]
